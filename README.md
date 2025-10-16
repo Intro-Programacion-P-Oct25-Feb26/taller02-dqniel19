@@ -1,5 +1,6 @@
 # Taller 2 (Laboratorio): Configuración de uso de Git y GitHub
-
+# Cambio en GitHub
+* Este cambio fue hecho directamente en GitHub
 ## Actividades
 
 En el presente repositorio realizar la siguientes tareas:
